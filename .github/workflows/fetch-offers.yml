@@ -1,0 +1,21 @@
+name: Fetch weekly offers
+on:
+  schedule:
+    - cron: '0 5 * * 1'   # Mondays 05:00 UTC, one hour before the Coachway routine reads it
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch offers from Tjek API
+        run: ./fetch_offers.sh
+      - name: Commit if changed
+        run: |
+          git config user.name "offers-bot"
+          git config user.email "actions@github.com"
+          git add offers.json
+          git diff --cached --quiet || git commit -m "Weekly offers $(date -u +%F)"
+          git push
