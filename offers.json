@@ -1,1413 +1,1406 @@
 {
-  "fetched_at": "2026-10-12T12:35:00Z",
+  "fetched_at": "2026-10-19T10:23:04Z",
   "source": "squid-api.tjek.com",
   "offers": [
     {
-      "heading": "Faxe Kondi eller Pepsi Max sodavand",
-      "price": 69,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Faxe Kondi eller Pepsi Max sodavand",
-      "price": 10,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Netto hakket oksekød 14-18%",
-      "price": 30,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Ben & Jerry's isbæger",
-      "price": 39,
-      "store": "Netto",
-      "run_from": "2026-09-30T22:00:00+0000",
-      "run_till": "2026-10-31T22:59:59+0000"
-    },
-    {
-      "heading": "Hakket dansk kyllingekød 7-10% eller kyllingelårfilet",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Kohberg brød",
+      "heading": "Dava danske frilandsæg",
       "price": 16,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Hakket grise- og kalvekød 8-12% eller flæsk i skiver",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "KiMs +50% chips eller 3-pak dip mix",
-      "price": 22,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Mou specialsuppe",
-      "price": 29,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Grøn Tuborg eller Carlsberg Pilsner",
-      "price": 69,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Naturens Energi nødder eller mandler",
+      "heading": "Dansk kyllingebrystfilet, -inderfilet eller hakket kyllingekød 3-7%",
       "price": 49,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Løgismose økologisk skyr",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Maoam eller Haribo slikpose",
-      "price": 10,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Pølsemesteren pølser",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Karat original eller Peter Larsen Kaffe blanding 66 formalet kaffe",
+      "heading": "Netto hakket oksekød 8-12%",
       "price": 35,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Dansk ovnklar flæskesteg",
-      "price": 19.95,
+      "heading": "Schulstad levebrød",
+      "price": 9,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Magnum isbæger eller bonbons",
-      "price": 35,
+      "heading": "Velsmag dansk nakkefilet eller ribbenssteg uden ben",
+      "price": 24.95,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Godt papir",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Paneret fisk eller grønlandske rejer",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Cheasy hytteost eller Delaktis salatost",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Dansk kyllingebrystfilet eller -inderfilet",
-      "price": 69,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Absolut Vodka, Beefeater Gin eller Ballantines Finest",
-      "price": 99,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Dansk hel kylling",
-      "price": 49,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Castello hård ost eller Cheasy skæreost",
-      "price": 55,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Faxe Kondi Booster eller Faxe kondi julekalender",
-      "price": 329,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Salling Princip autumn crisp druer",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Julekalender",
-      "price": 119,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Hatting brød",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Hansens økologisk isbæger eller iskasse",
-      "price": 43,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "ØGO økologisk dansk hokkaido græskar",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Skagenfood fersk laksestykke",
-      "price": 49,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Valsølille juice, lemonade eller smoothie",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-09-30T22:00:00+0000",
-      "run_till": "2026-10-31T22:59:59+0000"
-    },
-    {
-      "heading": "Gevalia eller L'OR",
-      "price": 119,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Daloon forårsruller",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Klovborg skiveost",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Cheasy yoghurt",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Buko flødeost",
+      "heading": "Coca-Cola sodavand",
       "price": 10,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "ØGO økologiske spisemodne avocadoer",
-      "price": 25,
+      "heading": "Dansk kyllingelårfilet",
+      "price": 65,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Pålækker pålæg eller salami-hapser",
+      "heading": "Danske kyllingeunderlår eller -overlår",
       "price": 10,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Spiritusmarked",
+      "price": 109,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Bakkedal smørbar",
+      "price": 10,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Royal Pilsner eller Classic",
+      "price": 65,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Løgismose økologisk kefir",
+      "price": 18,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Bistronne hel pekingand",
+      "price": 49,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Taffel chips",
+      "price": 12,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Frisko Favoritter isbæger eller Carte d'Or vaniljeis",
+      "price": 39,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Tuborg øl",
+      "price": 75,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
       "heading": "Athena græsk yoghurt",
-      "price": 17,
+      "price": 27,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Fairy maxipack opvasketabs",
-      "price": 99,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Bådsmand grønlandske rejer, koldrøget eller gravad laks",
-      "price": 30,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Tulip bacon",
-      "price": 30,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Red Bull julekalender",
-      "price": 299,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Cocio",
-      "price": 13,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Super Kræs kebab",
-      "price": 29,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Dairy goood revet mozzarella",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "H.C. Andersen skæreost",
-      "price": 99,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Bistronne andebryst",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "AMA madlavning",
-      "price": 8,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "God Morgen juice eller shot",
-      "price": 22,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Fiskefrikadeller, laksetopping eller varmrøget makrel",
-      "price": 24,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Mindus, Star eller Bravo Bag-in-Box",
-      "price": 99,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Salling Princip durum pizzabunde",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Barbera D'Asti, Golden Zin, Montgras Reserva eller Rocca Alata Pinot Grigio",
-      "price": 38,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Fredsted chai latte",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Stryhns postej",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Jakobsens honning",
-      "price": 33,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Dolce Gusto kapsler",
+      "heading": "Dr. Oetker Suprema pizza",
       "price": 39,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Danske porrer",
-      "price": 10,
+      "heading": "Schulstad levebrød kernegrov rugbrød",
+      "price": 9,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Cherryblommetomater",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Navito tun i vand",
-      "price": 9.95,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Netto nakkekoteletter",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Heinz tomatsuppe",
-      "price": 8.42,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Monster Energy",
-      "price": 14,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Blåbær sweetest batch",
-      "price": 40,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Julekalender",
-      "price": 99,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Bettini pasta",
-      "price": 13,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Valsemøllen hvedemel",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Kinder mælkesnitte eller pingui",
-      "price": 32,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Tykstegsbøf",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Bold protein drik",
-      "price": 10,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Livol +10%",
+      "heading": "Baileys original",
       "price": 79,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Koteletter",
+      "heading": "Peter Larsen Kaffe, Merrild eller Café Noir formalet kaffe",
       "price": 55,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Snickers isbar 5-pak",
-      "price": 27.47,
+      "heading": "Netto svinekæber",
+      "price": 49,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Heinz mayonnaise",
-      "price": 25,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Salling Princip varmrøget laks",
-      "price": 65,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "KiMs julekalender",
-      "price": 195,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Thisted Bryghus øl julekalender",
-      "price": 249,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Puslespilsbord",
-      "price": 199,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "ØGO økologisk friland kyllingeleverpostej",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Skrald-let affaldsposer",
-      "price": 4.96,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Yummy kageblandinger",
-      "price": 12,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Super Kræs kebabbrød",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Cillit Bang rengøring eller PW vaskemiddel",
-      "price": 20,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Milka eller Hulten julekalender",
+      "heading": "Mammen skæreost",
       "price": 79,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Stuelyng",
+      "heading": "Velsmag hakket dansk grisekød 8-12% eller koteletter",
+      "price": 19,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Castillo de Maria, Bio Logico eller Diamond Hill Bag-in-Box",
+      "price": 89,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Marinerede nakkekoteletter eller dansk hakket grise- og kalvekød 8-12%",
+      "price": 55,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Kitchen Joy cube",
+      "price": 15,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Næmt pizzadej eller pølsehornsdej",
+      "price": 9,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Premier Is isbæger eller iskasse",
+      "price": 32,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Cheasy skyr vanilje top cup",
+      "price": 5,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Steff Houlberg pølser",
+      "price": 25,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Formodnede avocadoer",
+      "price": 22,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Hel fransk majskylling",
+      "price": 75,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Cheese Makers Treasures dessertost",
+      "price": 24,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Den Grønne Slagter pålæg",
+      "price": 10,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Dansk halloween græskar",
+      "price": 22,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Casa Tarradellas pizza",
+      "price": 25,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Kohberg fuldkornsburgerboller",
+      "price": 12.47,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "AMA flydende, let, bagning eller stegning",
+      "price": 11,
+      "store": "Netto",
+      "run_from": "2026-09-30T22:00:00+0000",
+      "run_till": "2026-10-31T22:59:59+0000"
+    },
+    {
+      "heading": "Copenhagen Roaster helbønner",
+      "price": 99,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Salling Princip grønlandske rejer",
+      "price": 59,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Fersk laksestykker",
+      "price": 59,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Netto hakket kyllingekød 3-7% eller -overlår",
+      "price": 29.95,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Heinz ketchup",
+      "price": 25,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Casa Czaja udenlandske specialiteter",
+      "price": 20,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Libresse eller Tena",
+      "price": 29,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Innocent juice eller smoothie",
       "price": 30,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Næmt skinkestrimler",
-      "price": 15,
+      "heading": "Arla Protein drik",
+      "price": 12,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Super Kræs dressing",
-      "price": 20,
+      "heading": "La Campagna udenlandske specialiteter",
+      "price": 12,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Bakersfield fuldkornspitabrød",
-      "price": 14,
+      "heading": "Samsø kartofler",
+      "price": 18,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Tena duo pakke",
+      "heading": "Kung Fu Girl, Golden Zin, Lindemans, Il Capolavoro Appassimento Bag-in-Box",
+      "price": 129,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Red Bull",
+      "price": 12,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Merrild specialristet formalet kaffe",
+      "price": 35,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Salatmesteren pålægssalat",
+      "price": 12,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Kellogg's morgenmad",
+      "price": 45,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Biotex flydende vaskemiddel",
+      "price": 69,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Tørsaltet peber bacon",
       "price": 59,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-09-30T22:00:00+0000",
+      "run_till": "2026-10-31T22:59:59+0000"
     },
     {
-      "heading": "Nissin kopnudler",
-      "price": 10,
+      "heading": "Vinmarked",
+      "price": 65,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Netto rib eyes",
-      "price": 119,
+      "heading": "Egelykke bacon i skiver",
+      "price": 19,
       "store": "Netto",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Samsø rødløg",
-      "price": 7,
+      "heading": "ØGO økologisk hakket oksekød 8-12%",
+      "price": 55,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Pukka økologisk te julekalender",
-      "price": 99,
+      "heading": "Peter Larsen helbønner, Gevalia eller Café Noir instant kaffe",
+      "price": 69,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Bistronne andelår",
-      "price": 15,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Rexona deodorant",
-      "price": 14,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Castus julekalender",
-      "price": 99,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Blomstermuld",
-      "price": 18,
-      "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Næmt dessert-pandekager",
+      "heading": "Buko smelteost",
       "price": 12,
       "store": "Netto",
-      "run_from": "2026-10-09T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
-    },
-    {
-      "heading": "Skrabeæg M/L",
-      "price": 20,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Kohberg brød",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Dansk kylling",
-      "price": 29,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 hakket dansk oksekød 4-7% eller Burger Boost",
-      "price": 35,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Dansk ovnklar flæskesteg",
-      "price": 14.95,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Steff Houlberg Brunchpølser eller bacon i skiver",
-      "price": 22,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Café Noir eller Gevalia kaffe eller instant",
-      "price": 59,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Mørbrad",
-      "price": 25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Yoghurt eller græsk inspireret yoghurt",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Matilde Kakaomælk",
-      "price": 8,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 eller Napoli fastfoodbrød",
-      "price": 12,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "CasAmore Italiensk mini surdejspizza",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Graasten ketchup, remoulade, mayo eller dressing",
-      "price": 14,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Galle & Jessen pålægschokolade eller Nutella",
-      "price": 35,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Laksefileter, rødspættefileter eller mørksejfilet",
-      "price": 39,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "KiMs chips eller snacks",
-      "price": 14,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Rønbjerg Is Dansk flødeis",
-      "price": 29,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Castello",
-      "price": 18,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Coca-Cola eller Fanta",
-      "price": 3,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Hakket dansk grisekød 8-12% eller medister",
-      "price": 20,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "BKI formalet eller instant kaffe",
-      "price": 39,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Bær eller frugter",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Knorr dinner kit",
-      "price": 18,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Lavazza eller Merrild Hele bønner",
-      "price": 149,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Hatting brød, kanelsnegle eller tebirkes",
-      "price": 12,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Mayo Pålægs- eller frugtsalat",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Harboe sodavand",
-      "price": 3,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
       "heading": "Haribo slikpose",
+      "price": 45,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Salling Princip sockeye, røget eller gravad laks",
+      "price": 35,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Bravo Negroamaro-Zinfandel, Noble House eller Kingpin",
+      "price": 45,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Næmt kyllingestrimler",
       "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "REMA 1000 Kyllingekebab eller Frilandsgris gyros",
+      "heading": "Harboe julebryg",
+      "price": 3,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Urtekram økologisk ekstra jomfru olivenolie",
+      "price": 99,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Hello Sensitive vådservietter",
+      "price": 8,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Dolmio eller Ben's sauce",
+      "price": 20,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Løgismose blå ost eller økologisk skiveost",
       "price": 25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Tuborg eller Carlsberg øl",
-      "price": 4.5,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "heading": "Næmt tø og server",
+      "price": 20,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Karolines Køkken Piskefløde 36%",
+      "heading": "K-Salat bearnaise-sauce",
+      "price": 16,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Elvital shampoo eller balsam",
+      "price": 30,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Deglet Nour dadler",
+      "price": 35,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "SNCK proteinbar",
+      "price": 16,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Den Grønne Slagter kyllingebryst",
+      "price": 10,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Purella granola",
+      "price": 20,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Bådsmand varmrøget laks",
+      "price": 35,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Dansk broccoli",
       "price": 12,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Marabou chokolade",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "heading": "Salling Princip berberi andelår",
+      "price": 35,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Caputo mel",
+      "heading": "Scoop eller Fun",
+      "price": 12,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Popz mikrobølgeovns popcorn 3-pak",
+      "price": 12,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Hindbær",
       "price": 18,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "Taffel Corners eller Cornitas",
-      "price": 14,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "heading": "Mon Ami brie, rødkitost eller camembert",
+      "price": 13,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
     },
     {
-      "heading": "REMA 1000 Flødekartofler",
+      "heading": "At Home rengøring",
+      "price": 10,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Center",
+      "price": 11.97,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "ØGO økologisk dansk rodfrugtmix",
+      "price": 15,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Starbucks kaffekapsler",
+      "price": 29,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Mutti tomatpuré",
+      "price": 15,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Samsø æbler",
+      "price": 20,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Pågen gifflar",
+      "price": 16,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Dansk kalvegrydesteg",
+      "price": 149,
+      "store": "Netto",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Toms Guldbarre",
+      "price": 10,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Snack tomater",
+      "price": 13,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Bornholmerslagteren postej",
+      "price": 15,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Blodigt pynt",
+      "price": 30,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Mamone tranebær",
+      "price": 13.37,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Burger BOOST af dansk okse",
+      "price": 39.95,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "ØGO økologisk hummus",
+      "price": 10,
+      "store": "Netto",
+      "run_from": "2026-10-16T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "Schulstad Det Gode brød",
       "price": 15,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Wasa snacks",
-      "price": 20,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "OMO vaskemiddel",
-      "price": 20,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Spangsberg Flødeboller",
-      "price": 39,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Ocean Run Rejer i lage",
-      "price": 29,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Magnum is",
-      "price": 25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Libresse hygiejnebind, trusseindlæg eller Tena discreet",
+      "heading": "Æg",
       "price": 30,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Kærgården",
+      "price": 12,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Pepsi Max eller Faxe Kondi",
+      "price": 12,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Tuborg eller Brewmasters IPA",
+      "price": 4,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Arla Protein drik Vanilje, chokolade eller banan",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Hakket dansk oksekød 8-12% eller ungkvæg i tern",
+      "price": 39,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Peter Larsen eller Löfbergs kaffe eller hele bønner",
+      "price": 49,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Dansk kylling",
+      "price": 25,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Hakket dansk kyllingekød, grise- og kalvekød, koteletter eller stegeflæsk",
+      "price": 25,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Bologna Italiensk is",
+      "price": 29,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Karolines Køkken risalamande, Cheasy eller Arla Airy skyr",
+      "price": 5,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Arla Klovborg eller Cheasy skæreost",
+      "price": 45,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Laksefilet",
+      "price": 89,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Frilandsgris Pølser",
+      "price": 25,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Wasa knækbrød",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Vesterhavsrødspætter eller grønlandske rejer",
+      "price": 39,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Tuborg Squash",
+      "price": 3,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Middagskødboller, minifrikadeller eller kyllingestrimler",
+      "price": 25,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Okse- eller hønsekødssuppe",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Frilandsgris Italiensk inspireret porchetta",
+      "price": 39.95,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Arla Cultura A38",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Lotus Premium Toiletpapir eller køkkenruller",
+      "price": 20,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Ambrosi Mascarpone eller burrata",
+      "price": 18,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Lindt chokolade eller Lakridshuset Møn lakridsbar",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Valsemøllen Manitoba, Tipo 00, bageenzym eller bageklar surdej",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Frilandsgris Frikadeller eller gyros",
+      "price": 25,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Dansk kalveculotte",
+      "price": 69.95,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Colgate tandpasta eller tandbørster",
+      "price": 35,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Paradiso Peanutbutter",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Toffifee, Toms snebolde, Anthon Berg hjerter eller Spangsberg New Originals",
+      "price": 20,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Fairy opvasketabs",
+      "price": 75,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Fersk poussin",
+      "price": 39,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Lækkert & Nemt Grøntsagsblanding",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "EGO eller Tuborg Classic",
+      "price": 5,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Fazer slik eller chokoladebar",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Rødbeder",
+      "price": 5,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Alpro Plantebaseret yoghurt",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Focaccia, pizzasnegle eller pølsehorn",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Samsøost Mild 30+",
+      "price": 39,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Frilandsgris Skinkeculotte med tomat & ramsløg eller nakkefilet",
+      "price": 79,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Danone Actimel eller Danonino yoghurt",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Bamseline skyllemiddel",
+      "price": 20,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Løg",
+      "price": 5,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Thisted eller Skanderborg Bryghus",
+      "price": 18,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Mini madspildsgulerødder",
+      "price": 4,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "San Marco Pizza med hvidløg & ost",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 bleer",
+      "price": 49,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Kageblanding",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Bomuldsgarn",
+      "price": 12,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Færdigret eller risotto",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Vanish rengøring eller Calgon 4in1 tabs",
+      "price": 35,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Mentos eller Spangsberg mariehøner",
+      "price": 5,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Ørbæk Mosteri Årets ævlerov æblemost",
+      "price": 12,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Pågen Gifflar eller Vanillas",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "KiMs Nødder eller snacks",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "La Pasta di Maria Italiensk fettuccine naturel eller lasagneplader",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Frilandsgris Hakket grisekød 8-12%",
+      "price": 25,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Is med smag af banan",
+      "price": 29,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Blue Keld",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "Æbler",
-      "price": 16,
+      "price": 2,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Humlum pizzadej",
+      "heading": "Spidskål",
       "price": 10,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "REMA 1000 Panerede fisk",
-      "price": 29,
+      "heading": "REMA 1000 Danske kalvespareribs",
+      "price": 49.95,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Andebryst eller andelår",
-      "price": 20,
+      "heading": "REMA 1000 Bacon i skiver",
+      "price": 9.97,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Nakkefilet med gyros eller grillbryst med nordisk marinade",
-      "price": 49,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Tarteletter",
-      "price": 9,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Grisekæber eller REMA 1000 Frilandsgris grillkøller med BBQ",
-      "price": 49,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Confiterede andelår",
-      "price": 49,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Jacobsen eller Grimbergen øl",
-      "price": 25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Président brie eller smøresost",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Tex Mex Tortilla chips",
-      "price": 5,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 is",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Bananer",
-      "price": 1.25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Amo bolle- eller kageblanding",
-      "price": 20,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Pepperoni eller skinketern",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Den Gamle Fabrik Marmelade",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Pitabrød",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Ribeye",
-      "price": 89.95,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Planet Dairy Revet tex mex eller cheddar",
+      "heading": "PUCK hvid ost",
       "price": 12,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Stenfri druer",
-      "price": 18,
+      "heading": "Pizza snack",
+      "price": 5,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Carletti overtræk eller chokoladeplade",
+      "heading": "Lotus fugtig toiletpapir",
       "price": 20,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Skippy eller REMA 1000 peanutbutter",
-      "price": 25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Gluten eller Amo hvedemel",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 salat",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Krondyrsteaks eller krondyrkød i tern",
-      "price": 49,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Højrebsfilet",
-      "price": 79.95,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Cocktailpølser eller minifrikadeller",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Arla Klovborg eller Cheasy ost i skiver",
-      "price": 22,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "One Edge, State eller Powerade",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Slagter Lampe Spegepølse, guldleverpølse eller frankfurter",
-      "price": 25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
-      "price": 99,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Maynard’s 10 Years Old Tawny",
-      "price": 99,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Protein- eller brunchpandekager",
-      "price": 20,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Dansk kyllingeinderfilet",
-      "price": 25,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Malaco slik eller Cloetta juleskum",
-      "price": 35,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Brune champignon",
-      "price": 14,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "REMA 1000 Frilandsgris",
       "price": 29,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Coronet roulade eller Dan Cake kage",
+      "heading": "Jordan eller Colgate tandpasta eller tandbørste",
       "price": 12,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Paradiso Aspargessnitter",
-      "price": 18,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Easis chips",
-      "price": 9,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Røget filet eller kogt skinke",
-      "price": 12,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Cheasy Hytteost 1.5% fedt",
-      "price": 12,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Carletti slik eller Evers bolcher",
+      "heading": "Haribo juleskum",
       "price": 10,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Zelected Syltede rødløg, agurker, aioli eller sauce",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Snackgulerødder",
-      "price": 6,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Jasminris",
-      "price": 14,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Gøl spegepølse eller kødpølse",
-      "price": 10,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Tropicana juice",
+      "heading": "REMA 1000 Hakkebøffer eller kalvesticks med bacon",
       "price": 20,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "REMA 1000 Hønsekød i tern",
-      "price": 35,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Skrald-let affaldsposer med snørelukning",
+      "heading": "REMA 1000 Majssnacks",
       "price": 5,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Fynbo Ribsgelé eller tyttebær",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Røget laks i skiver",
-      "price": 15,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Serveringsfad, kagerulle, afsætningsrist, køkkenvægt, kageboks, 3-pak opbevaringssæt i plast, springform eller bradepande med låg",
-      "price": 50,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "REMA 1000 Kullerloins eller hele rødspætter",
-      "price": 59,
-      "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Kiks eller kage",
+      "heading": "LoveMade Smoothie eller grød",
       "price": 10,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Katjes eller Sallos",
+      "heading": "Deglet Nour dadler",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Frilandsgris Leverpostej eller krydderpaté",
       "price": 12,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Nemt & Grønt Balsamico glace",
+      "heading": "Frankly ingefærshot",
       "price": 5,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Kitchen Joy Færdigret",
+      "heading": "Grønkål",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 salami, leverpostej eller Taga serrano",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Rexona deo spray eller roll-on",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Nivea hud- eller ansigtspleje",
+      "price": 30,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 pants",
+      "price": 39,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "STATE",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Lyskæde, klyngelyskæde eller metalwire klyngelyskæde",
+      "price": 20,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Skovlyst øl",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Kakifrugt",
+      "price": 3,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Jacobsen øl",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Finca San Carlos, Malbec",
+      "price": 49,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "LoveMade børnemad",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Fiskefars",
+      "price": 30,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Sandwich kyllingeskiver",
+      "price": 15,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 XL müslibar",
+      "price": 5,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "REMA 1000 Smoothie",
+      "price": 5,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Madame Butterfly Kiks",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Fruit cubes",
+      "price": 10,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Honningmelon",
+      "price": 18,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Acrylgarn",
+      "price": 20,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Ayoga te",
       "price": 25,
       "store": "REMA 1000",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "Roser i bundt",
-      "price": 25,
+      "heading": "LoveMade grød",
+      "price": 29,
       "store": "REMA 1000",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "DAVA Skrabeæg",
-      "price": 16,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "heading": "Stor Ellwoodii",
+      "price": 49,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Squash",
+      "price": 6,
+      "store": "REMA 1000",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "DANISH CROWN Hakket oksekød med 35 % grøntsager",
@@ -1417,6 +1410,13 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
+      "heading": "CHEASY Skyr",
+      "price": 20,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
       "heading": "MADVÆRKET Kyllingebrystfilet eller hele -lår med ryg",
       "price": 64.95,
       "store": "Lidl",
@@ -1424,8 +1424,22 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MADVÆRKET Hakket oksekød",
-      "price": 72.95,
+      "heading": "MOU Suppe",
+      "price": 20,
+      "store": "Lidl",
+      "run_from": "2026-10-22T22:00:00+0000",
+      "run_till": "2026-10-23T21:59:59+0000"
+    },
+    {
+      "heading": "ROSE Kyllingebrystfilet eller hakket kylling",
+      "price": 49,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "MILBONA Letsaltet smør eller smørbar",
+      "price": 9.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
@@ -1438,25 +1452,18 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
+      "heading": "MADVÆRKET Hakket oksekød",
+      "price": 72.95,
+      "store": "Lidl",
+      "run_from": "2026-05-02T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
       "heading": "MADVÆRKET Skyr naturel eller vanilje",
       "price": 19.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "MILBONA Letsaltet smør eller smørbar",
-      "price": 9.95,
-      "store": "Lidl",
-      "run_from": "2026-05-02T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "COCA-COLA/FANTA Sodavand",
-      "price": 75,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
     },
     {
       "heading": "HAVBLÅ Hel laksefilet med skind",
@@ -1473,25 +1480,18 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "BON GELATI Is",
-      "price": 35,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "ROSE Hakket kyllingekød, -inderfilet eller -lårmix",
-      "price": 39,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "ARLA Proteindrik",
+      "heading": "SCHULSTAD Brød",
       "price": 12,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "MERRILD Kaffe",
+      "price": 45,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "MADVÆRKET Hel kylling",
@@ -1501,11 +1501,11 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "Danske bagekartofler",
-      "price": 10,
+      "heading": "LAMBI Køkkenrulle eller toiletpapir",
+      "price": 18,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "MADVÆRKET Økologisk smør",
@@ -1515,18 +1515,18 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "VITA D'OR Solsikke- eller rapsolie",
-      "price": 10,
+      "heading": "MADVÆRKET Kyllingevinger, -lårfilet, -underlår eller -overlår med ryg",
+      "price": 29.95,
       "store": "Lidl",
-      "run_from": "2026-10-15T22:00:00+0000",
-      "run_till": "2026-10-16T21:59:59+0000"
+      "run_from": "2026-09-29T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MILBONA Græsk-inspireret yoghurt",
-      "price": 24.95,
+      "heading": "Guldkorn, havre- eller rugfras",
+      "price": 25,
       "store": "Lidl",
-      "run_from": "2026-05-02T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "MILBONA Hytteost",
@@ -1536,10 +1536,10 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MADVÆRKET Kyllingevinger, -lårfilet, -underlår eller -overlår med ryg",
-      "price": 29.95,
+      "heading": "MILBONA Græsk-inspireret yoghurt",
+      "price": 24.95,
       "store": "Lidl",
-      "run_from": "2026-09-29T22:00:00+0000",
+      "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
@@ -1557,25 +1557,18 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "ROYAL Øl",
-      "price": 75,
+      "heading": "CASTELLO Aged Havarti",
+      "price": 49,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "MADVÆRKET Flæskesteg",
-      "price": 13.95,
+      "heading": "PRIMADONNA Spansk ekstra jomfruolivenolie",
+      "price": 59.95,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "TULIP Baconskiver eller -tern",
-      "price": 35,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-09-29T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
     },
     {
       "heading": "MADVÆRKET Hakket oksekød",
@@ -1585,11 +1578,11 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "PRIMADONNA Spansk ekstra jomfruolivenolie",
-      "price": 59.95,
+      "heading": "ARLA/MATILDE Proteindrik med chokolade eller milkshakemix",
+      "price": 22,
       "store": "Lidl",
-      "run_from": "2026-09-12T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "BUTCHER’S Nakkefilet",
@@ -1599,46 +1592,25 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "HØJER Hamburgerryg, skinke eller røget bacon",
-      "price": 39,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "ANTHON BERG Ren rå marcipan",
-      "price": 59,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "MARABOU Chokolade",
-      "price": 25,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "DEN GAMLE FABRIK Marmelade",
-      "price": 25,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "LAY'S Chips",
-      "price": 12,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "MADVÆRKET Hakket oksekød",
-      "price": 76.95,
+      "heading": "STEFF HOULBERG Hotdog-, eller bayerske pølser",
+      "price": 24.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "MISTER CHOC Chokolade",
+      "price": 25,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "DELUXE Angus Sirloin Steak",
+      "price": 49,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "ITALIAMO Pizza",
@@ -1648,18 +1620,39 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "PREMIER IS Is i bæger",
-      "price": 35,
+      "heading": "OSTEHJØRNET Tapasoste",
+      "price": 11.25,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "STEFF HOULBERG Hotdog-, eller bayerske pølser",
-      "price": 24.95,
+      "heading": "ALESTO Mandler med smag",
+      "price": 15,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "MADVÆRKET Hakket oksekød",
+      "price": 76.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "Danske snacktomater",
+      "price": 6,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Leffe de Nöel, Grimbergen eller Jacobsen juleøl",
+      "price": 25,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "MADVÆRKET Grisemørbrad med bimørbrad",
@@ -1667,20 +1660,6 @@
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "SPANGSBERG Flødebolletoppe",
-      "price": 15,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "TOMS Julekalender",
-      "price": 89,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
     },
     {
       "heading": "MADVÆRKET Kyllingebrystfilet",
@@ -1697,6 +1676,13 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
+      "heading": "Danske gulerødder",
+      "price": 13,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
       "heading": "FLORALYS Toiletpapir",
       "price": 39.5,
       "store": "Lidl",
@@ -1704,24 +1690,38 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MADVÆRKET Burgerbøffer af oksekød",
-      "price": 24.95,
+      "heading": "MILBONA Skyr naturel",
+      "price": 20,
       "store": "Lidl",
-      "run_from": "2026-09-29T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "MADVÆRKET Flæskesteg",
+      "heading": "MADVÆRKET Burgerbøffer af oksekød",
       "price": 24.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "DANISH CROWN Burger Boost",
-      "price": 39.95,
+      "heading": "JENSENS Sauce",
+      "price": 12,
       "store": "Lidl",
-      "run_from": "2026-09-29T22:00:00+0000",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "HARIBO Halloween-slik",
+      "price": 15,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "MADVÆRKET Flæskesteg",
+      "price": 24.95,
+      "store": "Lidl",
+      "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
@@ -1739,6 +1739,13 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
+      "heading": "DELUXE Grana Padano DOP",
+      "price": 45,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
       "heading": "MADVÆRKET Hakket oksekød",
       "price": 37.95,
       "store": "Lidl",
@@ -1746,32 +1753,25 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
+      "heading": "DELUXE Hvide tigerrejer",
+      "price": 75,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Pærer eller appelsiner",
+      "price": 20,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
       "heading": "PÅLÆGSSLAGTEREN Bacon i skiver",
       "price": 19.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "TASTINO Burgerboller",
-      "price": 10,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "BELLAROM Hele kaffebønner",
-      "price": 115,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "MARIBEL Honning",
-      "price": 29,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
     },
     {
       "heading": "MADVÆRKET Hakket grise- og kalvekød",
@@ -1788,24 +1788,10 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "BELBAKE Mandelmel, -splinter, -flager eller hakkede mandler",
-      "price": 25,
+      "heading": "MAMMEN Hytteost",
+      "price": 16.95,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "MERRILD Kaffe",
-      "price": 59.95,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "MADVÆRKET Hakket kyllingekød",
-      "price": 29.95,
-      "store": "Lidl",
-      "run_from": "2026-09-29T22:00:00+0000",
+      "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
@@ -1816,6 +1802,20 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
+      "heading": "MADVÆRKET Hakket kyllingekød",
+      "price": 29.95,
+      "store": "Lidl",
+      "run_from": "2026-09-29T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "RIBERHUS Skiveost",
+      "price": 22,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
       "heading": "CHEASY Ost",
       "price": 49.95,
       "store": "Lidl",
@@ -1823,15 +1823,22 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MAMMEN Hytteost",
-      "price": 16.95,
+      "heading": "MADVÆRKET Kyllingeinderfilet",
+      "price": 49.95,
+      "store": "Lidl",
+      "run_from": "2026-09-29T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "BAKKEDAL Økologisk smør",
+      "price": 14.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MADVÆRKET Kyllingeinderfilet",
-      "price": 49.95,
+      "heading": "FLORALYS Toiletpapir",
+      "price": 12.95,
       "store": "Lidl",
       "run_from": "2026-09-29T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
@@ -1851,20 +1858,6 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "FLORALYS Toiletpapir",
-      "price": 12.95,
-      "store": "Lidl",
-      "run_from": "2026-09-29T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "BAKKEDAL Økologisk smør",
-      "price": 14.95,
-      "store": "Lidl",
-      "run_from": "2026-05-02T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
       "heading": "MADVÆRKET Yoghurt",
       "price": 11.95,
       "store": "Lidl",
@@ -1872,32 +1865,60 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "Baby bear-græskar",
+      "heading": "DANISH CROWN Burger Boost",
+      "price": 39.95,
+      "store": "Lidl",
+      "run_from": "2026-05-02T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "MADVÆRKET Kalvekød i tern eller kalvekød i strimler",
+      "price": 44.95,
+      "store": "Lidl",
+      "run_from": "2026-05-02T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "Ready to eat avocado",
+      "price": 25,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "CHEF SELECT/ OCEAN SEA Mozzarella Sticks, Chili Cheese Nuggets eller fiskepinde",
+      "price": 49,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Røget, gravad eller varmrøget laks",
+      "price": 29.95,
+      "store": "Lidl",
+      "run_from": "2026-09-12T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "MADVÆRKET Stegeflæsk i skiver",
+      "price": 29.95,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "BÄHNCKE Remoulade eller mayonnaise",
+      "price": 10,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Røde vindruer",
       "price": 15,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Softkernerugbrød",
-      "price": 15,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Halloween-græskar",
-      "price": 22,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "HAVBLÅ Laksefilet",
-      "price": 89,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "PUCK Salatost",
@@ -1909,27 +1930,6 @@
     {
       "heading": "MADVÆRKET Ribeyefilet",
       "price": 99.95,
-      "store": "Lidl",
-      "run_from": "2026-05-02T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "Avocado",
-      "price": 7,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "KAREN VOLF Æbleskiver",
-      "price": 20,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "MADVÆRKET Hakket grisekød",
-      "price": 24.95,
       "store": "Lidl",
       "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
@@ -1956,32 +1956,25 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MILBONA Gouda eller tilsiter",
-      "price": 29.95,
+      "heading": "MADVÆRKET Hakket grisekød",
+      "price": 24.95,
       "store": "Lidl",
-      "run_from": "2026-09-29T22:00:00+0000",
+      "run_from": "2026-05-02T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "A+ Vaskemiddel",
-      "price": 39,
+      "heading": "W5 All in 1 opvasketabs",
+      "price": 40,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
-      "heading": "KINDER Julekalender",
-      "price": 129,
+      "heading": "MADVÆRKET Hakket grisekød",
+      "price": 49,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Økologisk agurk",
-      "price": 8,
-      "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "MADVÆRKET Økologiske grov- eller finvalsede havregryn",
@@ -1998,11 +1991,39 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "3-STJERNET Kartoffel- eller landspegepølse",
+      "heading": "MILBONA Græsk-inspireret yoghurt",
+      "price": 25,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "YUM YUM Instantnudler",
+      "price": 29,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "MILBONA Gouda eller tilsiter",
+      "price": 29.95,
+      "store": "Lidl",
+      "run_from": "2026-09-29T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "SOLEVITA Appelsindrik",
       "price": 15,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "Corte Alle Mura Chianti, Riesling Mosel, Rioja Rosado, Burg Schöneck Sekt eller Sauvignon Blanc",
+      "price": 250,
+      "store": "Lidl",
+      "run_from": "2026-10-21T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "ARLA Kærgården",
@@ -2019,11 +2040,18 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "DR. OETKER Vaniljestænger",
-      "price": 39,
+      "heading": "MADVÆRKET Stegeflæsk i skiver",
+      "price": 29.95,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-05-02T22:00:00+0000",
+      "run_till": "2026-12-31T22:59:59+0000"
+    },
+    {
+      "heading": "KIMS Chips",
+      "price": 11.95,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "BELBAKE Hvedemel",
@@ -2033,11 +2061,11 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "Rød peberfrugt",
-      "price": 7,
+      "heading": "LUPILU",
+      "price": 30,
       "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "MILBONA Kakaomælk",
@@ -2047,57 +2075,29 @@
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "MADVÆRKET Oksekød i tern eller strimler",
-      "price": 44.95,
+      "heading": "MADVÆRKET Nakkekoteletter eller koteletter af grisekam",
+      "price": 65,
+      "store": "Lidl",
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
+    },
+    {
+      "heading": "TASTINO Blandede rundstykker eller håndværkere",
+      "price": 12.75,
       "store": "Lidl",
       "run_from": "2026-09-29T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
     },
     {
-      "heading": "GOLDEN SUN Basmatiris",
-      "price": 15,
+      "heading": "ALESTO XXL cashewnødder",
+      "price": 39,
       "store": "Lidl",
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Spisekastanjer",
-      "price": 29,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
-    },
-    {
-      "heading": "Økologiske danske rødbeder",
-      "price": 9,
-      "store": "Lidl",
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000"
+      "run_from": "2026-10-17T22:00:00+0000",
+      "run_till": "2026-10-24T21:59:59+0000"
     },
     {
       "heading": "STRYHN’S Leverpostej",
       "price": 12.95,
-      "store": "Lidl",
-      "run_from": "2026-09-29T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "MADVÆRKET Stegeflæsk i skiver",
-      "price": 29.95,
-      "store": "Lidl",
-      "run_from": "2026-05-02T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "BELBAKE Sukker",
-      "price": 7.5,
-      "store": "Lidl",
-      "run_from": "2026-05-02T22:00:00+0000",
-      "run_till": "2026-12-31T22:59:59+0000"
-    },
-    {
-      "heading": "MILBONA Emmentaler eller cheddar i skiver",
-      "price": 29.95,
       "store": "Lidl",
       "run_from": "2026-09-29T22:00:00+0000",
       "run_till": "2026-12-31T22:59:59+0000"
